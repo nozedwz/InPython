@@ -7,3 +7,4 @@ n4 = input('Digite o quarto nome:')
 x = random.choices([n1,n2,n3,n4])
 
 print(f'O nome selecionado foi: {x}')
+#escolher um nome aleatório dentre os escolhidos
